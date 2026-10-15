@@ -60,7 +60,7 @@ is named by the AAL region at or within 10 mm of it, by FieldTrip's
 `ft_volumelookup`, since a fitted dipole often lies just beneath the cortex.
 
 The example is an early sensory response: the visual response to the faces
-in Ehinger and Dimigen's recording ([Overlap correction by deconvolution](https://markspan.github.io/Alakazam/#sec-deconvolution)), in the plain
+in Ehinger and Dimigen's recording ([Overlap correction by deconvolution](https://markspan.github.io/AlakazamDeconvolve/#sec-deconvolution)), in the plain
 average of the **Stimulus** bin (454 trials), around its first peak at
 102 ms, strongly positive over O1 and O2. From 82 to 122 ms a mirrored pair
 lands in the calcarine cortex of each hemisphere, at ±24, -69, 4 mm, and
